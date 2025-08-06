@@ -1,8 +1,8 @@
 # Request
 
-For running this script, install openpyxl is request.
+For running this script, install openpyxl is request. If it's insalled, skip this one.
 
-运行前需要安装python以及openpyxl库
+运行前需要安装python以及openpyxl库，如果您已安装，跳过此步骤。
 
 ```bash
 pip install openpyxl
